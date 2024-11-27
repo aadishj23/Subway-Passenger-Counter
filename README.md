@@ -1,2 +1,4 @@
 # Subway-Passenger-Counter
-https://aadishjain-subway-passenger-counter.netlify.app/
+
+-Made using HTML,CSS and JS
+-Website: https://subway-passenger-counter.aadish.tech/
